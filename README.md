@@ -55,9 +55,8 @@ Achieved **100% accuracy** on test data using `LogisticRegression` from `sklearn
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/afzalt3ch/Iris-Flower-Classification.git
-cd Iris-Flower-Classification
-pip install -r requirements.txt
+git clone https://github.com/afzalt3ch/Iris-Classification.git
+cd Iris-Classification
 ```
 
 ---
